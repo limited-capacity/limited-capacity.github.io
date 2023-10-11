@@ -19,6 +19,7 @@ tags:
 
 <style>
   a {
-    width: 30%
+    width: 30%;
+    display: inline-block;
   }
 </style>
