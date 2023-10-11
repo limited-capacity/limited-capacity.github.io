@@ -18,7 +18,7 @@ tags:
 ![png](https://github.com/limited-capacity/limited-capacity.github.io/raw/master/pictures/9.jpg)
 
 <style>
-  img {
+  img, a {
     width: 30%
   }
 </style>
