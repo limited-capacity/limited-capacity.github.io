@@ -48,22 +48,8 @@ IDE是指编辑器，可以使用vscode，使用方式和上述的方式一致�
 ## 文章格式
 除了上面讲到的需要用markdown语法进行编辑之外，新建的文档需要遵循以下的格式要求：
 - 文件名格式：`年份数字-月份数字（两位）-日期数字（两位）-文章标题.md`
-- 文件内容需要是下面的内容为开头
-```
-
----
-title: 文章标题（注：双引号之后需要先输入一个空格再输入文章标题，下同）
-date: 2023-10-15 15:57:00 （这里需要手动修改）
-categories:
-\- Tools （这里可以修改）
-tags:
-\- Tools （这里可以修改）
-published: true（如果改为false，则文章不会在网站上显示）
----
-
-文章内容
-
-```
+- 文件内容需要是下面的内容为开头  
+![article-header](https://github.com/limited-capacity/limited-capacity.github.io/raw/master/pictures/article-header.png)
 
 ## 插入图片
 在文章中插入图片应该是刚需，所以这里说一下。将你要插入的图片下载到本地，然后拖动到 `pictures` 这个文件夹中，就可以在文档中引用了，引用方式如下。
